@@ -1,18 +1,26 @@
 [
     {
-        "name": "5- Minute Breathing Meditation",
+        "name": "Breathing Meditation",
         "src": "http://traffic.libsyn.com/mindfulorg/winston-breathing-5mins.mp3"
     },
     {
-        "name": "11-Minute Awareness of Breath Practice",
+        "name": "Awareness of Breath Practice",
         "src": "http://traffic.libsyn.com/mindfulorg/SusanKaiserGreenland.mp3"
     },
     {
-        "name": "10-Minute Deep Relaxation Meditation",
+        "name": "Relaxation Meditation",
         "src": "https://traffic.libsyn.com/secure/mindfulorg/Jenee_Johnson.mp3"
     },
     {
-        "name": "20-Minute Breathscape Practice",
+        "name": "Breathscape Practice",
         "src": "http://traffic.libsyn.com/mindfulorg/LovingKindness.mp3"
+    },
+    {
+        "name": "Letting Thoughts Float by Like Bubbles",
+        "src": "https://traffic.libsyn.com/secure/mindfulorg/EnriqueCollazo.mp3"
+    },
+    {
+        "name": "Investigating Panic Attacks",
+        "src": "http://traffic.libsyn.com/mindfulorg/Mindful_Inquiry_Meditation.mp3"
     }
 ]
