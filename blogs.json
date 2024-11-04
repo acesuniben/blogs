@@ -12,6 +12,14 @@
       "date": "2024-11-01",
       "reading_time": 7,
       "imageUrl": "https://example.com/images/positive-thinking.jpg"
-    }
+    },
+    {
+        "title": "Mindful Living: An Introduction",
+        "content": "Mindful living i kls about being present...",
+        "date": "2024-10-30",
+        "reading_time": 5,
+        "imageUrl": "https://example.com/images/mindful-living.jpg"
+      }
+
   ]
   
