@@ -1,25 +1,57 @@
 [
-    {
-      "title": "Mindful Living: An Introduction",
-      "content": "Mindful living i kls about being present...",
-      "date": "2024-10-30",
-      "reading_time": 5,
-      "imageUrl": "https://example.com/images/mindful-living.jpg"
-    },
-    {
-      "title": "The Power of Positive Thinking",
-      "content": "Positive thinking can transform your life...",
-      "date": "2024-11-01",
-      "reading_time": 7,
-      "imageUrl": "https://example.com/images/positive-thinking.jpg"
-    },
-    {
-        "title": "Mindful Living: An Introduction",
-        "content": "Mindful living i kls about being present...",
-        "date": "2024-10-30",
-        "reading_time": 5,
-        "imageUrl": "https://example.com/images/mindful-living.jpg"
-      }
+  {
+    "title": "Tips to protect our Mental Health",
+    "date": "2024-08-09",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732233/WhatsApp_Image_2024-11-04_at_3.54.33_PM_h9zbxj.jpg"
+  },
+  {
+    "title": "Tips to Change Perception",
+    "date": "2024-10-18",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732246/WhatsApp_Image_2024-11-04_at_3.54.34_PM_1_wecjpt.jpg"
+  },
+  {
+    "title": "Tips to Practice Self Compassion",
+    "date": "2024-10-18",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732221/WhatsApp_Image_2024-11-04_at_3.54.33_PM_1_q5enui.jpg"
 
-  ]
-  
+  },
+  {
+    "title": "Tips to Uphold Positive Beliefs",
+    "date": "2024-10-18",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732221/WhatsApp_Image_2024-11-04_at_3.54.33_PM_1_q5enui.jpg"
+
+  },
+
+  {
+    "title": "Tips to protect our Mental Health",
+    "date": "2024-08-09",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732233/WhatsApp_Image_2024-11-04_at_3.54.33_PM_h9zbxj.jpg"
+  },
+  {
+    "title": "Tips to Change Perception",
+    "date": "2024-10-18",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732246/WhatsApp_Image_2024-11-04_at_3.54.34_PM_1_wecjpt.jpg"
+  },
+  {
+    "title": "Tips to Practice Self Compassion",
+    "date": "2024-10-18",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732221/WhatsApp_Image_2024-11-04_at_3.54.33_PM_1_q5enui.jpg"
+
+  },
+  {
+    "title": "Tips to Uphold Positive Beliefs",
+    "date": "2024-10-18",
+    "writer": "Catherine Ikhana-Iseh",
+    "imageUrl": "https://res.cloudinary.com/dcldvsih8/image/upload/v1730732221/WhatsApp_Image_2024-11-04_at_3.54.33_PM_1_q5enui.jpg"
+
+  }
+
+
+]
