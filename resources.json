@@ -1,0 +1,39 @@
+[
+    {
+        "title": "Mindfulness YouTube Playlist",
+        "description":
+            "A curated playlist of mindfulness exercises and guided meditations.",
+        "url":
+            "https://www.youtube.com/playlist?list=PLmXKhU9FNesS2nAf1XM1QQBkm_lUojA6D",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+        "color": "#FF0000",
+        "type": "YouTube"
+      },
+      {
+        "title": "Spotify Mental Health Podcasts",
+        "description":
+            "Listen to mental health podcasts for insights and advice.",
+        "url": "https://open.spotify.com/playlist/37i9dQZF1DWX83CujKHHOn",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+        "color": "#1DB954",
+        "type": "Spotify"
+      },
+      {
+        "title": "Breathing Exercises",
+        "description":
+            "Simple breathing exercises for relaxation and stress relief.",
+        "url": "https://www.youtube.com/watch?v=khXXK3mMV2k",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+        "color": "#FF0000",
+        "type": "YouTube"
+      },
+      {
+        "title": "Self-Compassion Podcast",
+        "description":
+            "Explore self-compassion techniques with this podcast series.",
+        "url": "https://open.spotify.com/show/4Y4UKjJXV1O5vrrxznKMPY",
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/174/174872.png",
+        "color": "#1DB954",
+        "type": "Spotify"
+      }
+]
